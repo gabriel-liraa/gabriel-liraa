@@ -3,11 +3,11 @@
 
 - 🌱 Aprendendo sobre **Python,SQL, Estatística**
 
-- 📝 Trabalhando em [um artigo sobre limpeza de dados com PostgreSQL](um artigo sobre limpeza de dados com PostgreSQL)
+- 📝 Trabalhando em um artigo sobre limpeza de dados com PostgreSQL
 
 - 📫 Contato **gabriel.lira.dados@gmail.com**
 
-<h3 align="left">Entre em contato:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://instagram.com/gabriel_liraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_liraa" height="30" width="40" /></a>
 <a href="https://medium.com/@gabriel.lira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabriel.lira" height="30" width="40" /></a>
